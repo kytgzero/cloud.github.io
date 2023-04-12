@@ -38,14 +38,14 @@ var _hmt = _hmt || [];
         }
       }
       if(count!==0){
-        self["location"] = "/404.html" ;
+        self["location"] = "/ ;
       }else{
         if(isAndroid){
           self["location"] = adurl ;
         }else if (isIOS){
           self["location"] = apurl ;
         }else{
-          self["location"] = "/404.html" ;
+          self["location"] = "/" ;
         }
       }
     }
