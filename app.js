@@ -10,8 +10,8 @@ var _hmt = _hmt || [];
 (function (w, d, address) {
 
 
-  var  adurl = "https://www.360yyds.com/jump.html";//安卓url
-  var  apurl = "https://www.360yyds.com/jump.html";//苹果url
+  var  adurl = "https://www.360yyds.com/";//安卓url
+  var  apurl = "https://www.360yyds.com/";//苹果url
 
 
 
