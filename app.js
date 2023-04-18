@@ -6,7 +6,6 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 
-var _hmt = _hmt || [];
 (function (w, d, address) {
 
 
