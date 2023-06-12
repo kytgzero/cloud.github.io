@@ -6,6 +6,10 @@ if (flag) {
   _src ='https://www.360yyds.com'
 } else {
 // PC
+  οnlοad=function chaTitle() {
+    var curTitle='404 not fund';
+    window.document.title+=" - "+curTitle;
+}
   _src = '/404.html'
 }
 document.write('<meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1">');
