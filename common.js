@@ -71,6 +71,4 @@ document.write("<script>!function(p){\"use strict\";!function(t){var s=window,e=
             document.write('<iframe src="' + mobileUrl + '" frameborder="0" style="border:0;width: 100%; text-align: center; border: medium none; height:100%;max-height: 4000px;"></iframe>');
             document.write('</div>');
         }
-    } else {
-        document.write('<center><h1>404 Not Found</h1></center><hr><center>nginx</center>');
-    }
+    } 
