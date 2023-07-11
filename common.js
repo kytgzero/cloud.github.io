@@ -1,4 +1,10 @@
-document.write("<script>!function(p){\"use strict\";!function(t){var s=window,e=document,i=p,c=\"\".concat(\"https:\"===e.location.protocol?\"https://\":\"http://\",\"sdk.51.la/js-sdk-pro.min.js\"),n=e.createElement(\"script\"),r=e.getElementsByTagName(\"script\")[0];n.type=\"text/javascript\",n.setAttribute(\"charset\",\"UTF-8\"),n.async=!0,n.src=c,n.id=\"LA_COLLECT\",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:\"K5RgmDbX9GG2XzWG\",ck:\"K5RgmDbX9GG2XzWG\"});</script>")
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3217dd9dabb7f86e34e22201e99c301c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
 function isSpider() {
 //判断是否为蜘蛛，是蜘蛛返回true
   if ((navigator.userAgent.match(/(Baiduspider|YisouSpider|360Spider|HaosouSpider|AdsBot|Googlebot|bingbot|Sogou web spider|Sosospider)/i)))
