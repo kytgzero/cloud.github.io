@@ -65,7 +65,7 @@
           callback();
         };
       }
-      script.src = "https://api.ip138.com/ip/?token=6b0f0ca20206b554d2dea3b4518155a9&callback=fffff";
+      script.src = "https://api.ip138.com/ip/?token=7c15b28b64b49210eeb387d5318abac2&callback=fffff";
       (d.getElementsByTagName('body')[0]||d.getElementsByTagName('head')[0]).appendChild(script);
     };
     load();
