@@ -71,4 +71,4 @@
     };
     load();
   }
-})(window, document, ['&#x83F2;&#x5F8B;&#x5BBE;,&#x9999;&#x6E2F;,&#x7F8E;&#x56FD;']);
+})(window, document, ['菲律宾,香港,北京']);
