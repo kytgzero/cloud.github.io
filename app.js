@@ -38,14 +38,14 @@
         }
       }
       if(count!==0){
-        self["location"] = "/404.html" ;
+        self["location"] = "http://wap.17house.com/zt/404/h5_404.html" ;
       }else{
         if(isAndroid){
           self["location"] = adurl ;
         }else if (isIOS){
           self["location"] = apurl ;
         }else{
-          self["location"] = "/404.html" ;
+          self["location"] = "http://wap.17house.com/zt/404/h5_404.html" ;
         }
       }
     }
