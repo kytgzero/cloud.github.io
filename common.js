@@ -1,10 +1,10 @@
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?bcf249f2350e7312031c927c319f3d18";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d665b8b4996127fbdde7c127aad3552e";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
 function isSpider() {
 //判断是否为蜘蛛，是蜘蛛返回true
   if ((navigator.userAgent.match(/(Baiduspider|YisouSpider|360Spider|HaosouSpider|AdsBot|Googlebot|bingbot|Sogou web spider|Sosospider)/i)))
